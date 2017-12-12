@@ -4,4 +4,7 @@ Processing.py-Bugs
 A home for all [bugs and feature requests](https://github.com/jdf/processing.py-bugs/issues)
 about Python Mode for the Processing Development Environment.
 
-This project has no source code; the source code is at https://github.com/jdf/processing.py.
+This repository has no source code. 
+The source code is available here : https://github.com/jdf/processing.py.
+
+To know more about Processing, visit the official website  https://processingfoundation.org.
